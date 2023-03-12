@@ -9,3 +9,10 @@ https://github.com/mohjacksi/AndroidOrderingSystemApp?fbclid=IwAR2h_sxcG53Lfecb6
 https://www.studocu.com/vn/document/truong-dai-hoc-su-pham-ky-thuat-thanh-pho-ho-chi-minh/lap-trinh-tren-windows/bai-tap-lon-lap-trinh-ung-dung-dat-do-an-nho/27339430?fbclid=IwAR0Ubfmc8HTnAMpxT3hCLyZAhDLHb46IzXoiu2zbkEC6A0YU2hURrPFLHZ8
 
 https://www.youtube.com/watch?v=9nWcPPHBzMk
+
+##button to go to another activity
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
